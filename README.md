@@ -1,8 +1,7 @@
-![a0d56919368013881fee153dba2f00b8l-m1808670654od-w480_h360](https://user-images.githubusercontent.com/61987208/96997059-03ecd200-14ff-11eb-9acb-7f701f4f5b1d.jpg)
+![image](https://user-images.githubusercontent.com/61987208/96997285-7f4e8380-14ff-11eb-9e7f-c77fa207dc3b.png)
 
-
-# Housing-Prices-model
-Linear regression model for housing prices
+# Housing-Prices-Model in Kings County Seattle 
+Using a linear regression model to predict housing prices in Kings County, Seattle, Washington.
 
 ### Business Problem
 
